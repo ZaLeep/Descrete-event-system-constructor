@@ -1,0 +1,16 @@
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.AssemblyReference.cache
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+D:\PlsYes\SysModeling\Lab3\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+D:\PlsYes\SysModeling\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CopyComplete

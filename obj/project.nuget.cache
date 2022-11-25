@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNtsslz3YstUpDtlXAx6bOZOM2urEO0VzUYK3Y/uqX4EdOfzapST29i2PWoET9VoGLbwrKK+j+bFqQro/pFBuA==",
+  "success": true,
+  "projectFilePath": "D:\\PlsYes\\SysModeling\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lexa3\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
